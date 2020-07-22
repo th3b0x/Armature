@@ -1,2 +1,2 @@
 # Armature
-Systems Integration Tool
+A Systems Integration Tool and Middleware System
